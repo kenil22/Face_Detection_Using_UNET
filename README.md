@@ -1,1 +1,1 @@
-3.10.14
+Python Version : 3.10.14
